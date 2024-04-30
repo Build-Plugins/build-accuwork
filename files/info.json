@@ -1,0 +1,15 @@
+{
+    "name": "AccuWork",
+    "docsURL": "",
+    "source_project": "",
+    "description": "The integration with AccuWork to report on issues and add comments to them. Available Steps",
+    "specification": {
+        "categories": [],
+        "type": ""
+    },
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "publish": true
+}
