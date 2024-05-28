@@ -4,25 +4,25 @@
  
 ### Version 8
  
-#### Build: 8.1096129 - Date: 2021.02.05 13:58
+#### Build: 8.1096129 - Date: 2021.02.05 12:58
  
 Support property file encryption.
  
 ### Version 7
  
-#### Build: 7.752908 - Date: 2016.03.01 10:55
+#### Build: 7.752908 - Date: 2016.03.01 09:55
  
 Added RPX dependency and English translations
  
 ### Version 6
  
-#### Build: 6.604290 - Date: 2014.11.14 11:58
+#### Build: 6.604290 - Date: 2014.11.14 10:58
  
 Fixed an issue where communication with the UrbanCode Build server would fail if it was running with an IBM JDK/JRE.
  
 ### Version 5
  
-#### Build: 5.474440 - Date: 2014.01.23 17:33
+#### Build: 5.474440 - Date: 2014.01.23 16:33
  
 Do not process duplicate changes. Fix a memory leak that caused problems with large number of changes.
  
@@ -40,7 +40,7 @@ Update to a newer version of a library for HTTP communication.
  
 ### Version 2
  
-#### Build: 2.350686 - Date: 2013.02.28 18:04
+#### Build: 2.350686 - Date: 2013.02.28 17:04
  
 Installing this plugin will give you access to the AccuWork commands listed below. These steps will be available for use when designing a Job.
  
