@@ -2,7 +2,7 @@
     {
         "version": "8",
         "semver": "8.1096129",
-        "date": "2021.02.05 13:58",
+        "date": "2021.02.05 12:58",
         "file": "AccuWork-8.1096129.zip",
         "notes": [
             "Support property file encryption."
@@ -13,7 +13,7 @@
     {
         "version": "7",
         "semver": "7.752908",
-        "date": "2016.03.01 10:55",
+        "date": "2016.03.01 09:55",
         "file": "AccuWork-7.752908.zip",
         "notes": [
             "Added RPX dependency and English translations"
@@ -24,7 +24,7 @@
     {
         "version": "6",
         "semver": "6.604290",
-        "date": "2014.11.14 11:58",
+        "date": "2014.11.14 10:58",
         "file": "AccuWork-6.604290.zip",
         "notes": [
             "Fixed an issue where communication with the UrbanCode Build server would fail if it was running with an IBM JDK/JRE."
@@ -35,7 +35,7 @@
     {
         "version": "5",
         "semver": "5.474440",
-        "date": "2014.01.23 17:33",
+        "date": "2014.01.23 16:33",
         "file": "AccuWork-5.474440.zip",
         "notes": [
             "Do not process duplicate changes. Fix a memory leak that caused problems with large number of changes."
@@ -68,7 +68,7 @@
     {
         "version": "2",
         "semver": "2.350686",
-        "date": "2013.02.28 18:04",
+        "date": "2013.02.28 17:04",
         "file": "AccuWork-2.350686.zip",
         "notes": [
             "Installing this plugin will give you access to the AccuWork commands listed below. These steps will be available for use when designing a Job."
